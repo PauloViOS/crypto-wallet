@@ -1,0 +1,7 @@
+pt-BR:
+  current_locale: "Português do Brasil"
+  hello: "Eai, meu chapa"
+  links:
+    edit: "Editar"
+    show: "Mostrar"
+    delete: "Apagar"
